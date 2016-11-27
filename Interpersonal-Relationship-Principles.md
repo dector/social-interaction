@@ -2,11 +2,11 @@
 
 ## Document Meta-Info
 
-**Epistemic Status**: Subjective
-**Current version**: 1.0 (27 Nov 2016)
-**Legal Status**: Distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-**Criticism Status**: Any kind of criticism about this document (related to content and/or formatting, meta approaches etc) is highly required. Clear, concise and **rational** arguments are very welcome.
-**Originally created**: 11 Nov 2016
+**Epistemic Status**: Subjective  
+**Current version**: 1.0 (27 Nov 2016)  
+**Legal Status**: Distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Criticism Status**: Any kind of criticism about this document (related to content and/or formatting, meta approaches etc) is highly required. Clear, concise and **rational** arguments are very welcome.  
+**Originally created**: 11 Nov 2016  
 
 ## Document purpose
 
