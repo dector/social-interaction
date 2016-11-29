@@ -14,7 +14,7 @@ This document conceived as a formalization of my own noncontradictory principles
 
 ## 1. Personal Freedom
 
-Personal freedom is a cornerstone of this principles. Thus I consider a relationship of personalities as an equal alliance for maximizing each participant's profit. Every type of dependency (physical, mental or emotional) can lead to distortion in equality thereby is considered as not desirable and not willingly by default.
+Personal freedom is a cornerstone of these principles. Thus I consider a relationship of personalities as an equal alliance for maximizing each participant's profit. Every type of dependency (physical, mental or emotional) can lead to distortion in equality thereby is considered as not desirable and not willingly by default.
 
 ### Open Questions
 
