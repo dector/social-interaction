@@ -3,7 +3,7 @@
 ## Document Meta-Info
 
 **Epistemic Status**: Subjective  
-**Current version**: 1.0 (27 Nov 2016)  
+**Current version**: 2.0 (24 Apr 2017)  
 **Legal Status**: Distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Criticism Status**: Any kind of criticism about this document (related to content and/or formatting, meta approaches etc) is highly required. Clear, concise and **rational** arguments are very welcome.  
 **Originally created**: 11 Nov 2016  
@@ -26,9 +26,13 @@ Obviously, self-harm is allowed for individuals according to this principle. How
 
 All participants shouldn't manipulate others or lie to them even for "their own sake".  All participants should provide a maximum amount of related information required for another's person decision-making process. Everybody may demand this from other participants and may expect that other participants are followed by these principles as well.
 
-## 3. Discussions
+## 3. Cooperation
 
-Discussion based on previous principles (personal freedom and honesty) is considered as the main instrument for resolving a conflict of interests, thoughts interchange, criticism providing and relationship development.
+I believe that cooperation is one of key principles for setting up healthy and mature interpersonal relationship. That means that I expect that all participants should try to put all possible efforts to understand and to percieve others correctly. In case of lack of information it shouldn't be implied but asked.
+
+## 4. Discussions
+
+Discussion based on previous principles (personal freedom, honesty and cooperation) is considered as the main instrument for resolving a conflict of interests, thoughts interchange, criticism providing and relationship development.
 
 ## Remarks
 
